@@ -1,5 +1,5 @@
 {
-  "name": "rsshub",
+  "name": "rssweb",
   "version": "0.1.1",
   "description": "Make RSS Great Again!",
   "main": "lib/pkg.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DIYgod/RSSHub.git"
+    "url": "git+https://github.com/hzhuhao/RSSWeb/.git"
   },
   "keywords": [
     "RSS"
@@ -30,9 +30,9 @@
   "author": "DIYgod",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DIYgod/RSSHub/issues"
+    "url": "https://github.com/hzhuhao/RSSWeb/issues"
   },
-  "homepage": "https://github.com/DIYgod/RSSHub#readme",
+  "homepage": "https://github.com/hzhuhao/RSSWeb/#readme",
   "devDependencies": {
     "@types/cheerio": "0.22.15",
     "@types/got": "9.6.9",
